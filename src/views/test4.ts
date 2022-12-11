@@ -1,4 +1,4 @@
-export interface test3{
+export interface test4{
     name:string;
     age:number
 }   
