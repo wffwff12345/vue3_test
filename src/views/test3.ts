@@ -23,3 +23,7 @@ export interface test15{
     name:string;
     age:number
 }
+export interface test16{
+    name:string;
+    age:number
+}
