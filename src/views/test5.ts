@@ -12,5 +12,6 @@ export interface test19{
 }
 export interface test20{
     name:string;
-    age:number
+    age:number;
+    id:number
 }
