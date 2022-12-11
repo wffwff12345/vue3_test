@@ -10,3 +10,7 @@ export interface test7{
     name:string;
     age:number
 }   
+export interface test8{
+    name:string;
+    age:number
+}  
