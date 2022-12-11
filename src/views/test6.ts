@@ -6,3 +6,7 @@ export interface test2{
     name:string;
     age:number
 }
+export interface test3{
+    name:string;
+    age:number
+}
