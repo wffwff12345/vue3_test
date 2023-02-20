@@ -14,7 +14,7 @@ export interface test4{
     name:string;
     age:number
 }
-export interface test6{
+export interface test7{
     name:string;
     age:number
 }
